@@ -23,6 +23,12 @@ A lightweight random card layout generator using **HTML**, **CSS**, and **JavaSc
 
 ---
 
+## 📸 Screenshot
+
+<img src="randomCards.png"></img>
+
+---
+
 ## 🧑‍💻 Author
 
 Made with ❤️ by **Shahmir Ali Qureshi**
